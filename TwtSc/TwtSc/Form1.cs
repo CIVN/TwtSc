@@ -19,8 +19,8 @@ namespace TwtSc
 
 		private string PATH = Environment.CurrentDirectory + "\\" + "ScreenShots";
 
-		private const string CONSUMER_KEY = "ARvucpPIcosQBdehQKKH93HhT";
-		private const string CONSUMER_SECRET = "5LJh1LNuUrx6C8bXdxBceFYYQZdM5YeHodR9mym3Q1zfix5IG3";
+		private const string CONSUMER_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXX";
+		private const string CONSUMER_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 		public Form1()
 		{
